@@ -1,5 +1,6 @@
 {
   "name": "frontend",
+  "homepage": "https://mshahbaz858.github.io/Shahbaz-Personal-Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,6 +12,7 @@
     "@testing-library/user-event": "^12.7.1",
     "bootstrap": "^4.6.0",
     "font-awesome": "^4.7.0",
+    "gh-pages": "^3.1.0",
     "react": "^17.0.1",
     "react-bootstrap": "^1.5.0",
     "react-dom": "^17.0.1",
@@ -24,6 +26,8 @@
     "web-vitals": "^1.1.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

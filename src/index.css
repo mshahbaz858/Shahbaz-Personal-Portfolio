@@ -3,7 +3,7 @@ body {
   margin: 6px !important;
   font: 500 14px/100px "Roboto",sans-serif;
   font-size: 0.9rem !important;
-  line-height: 27px;
+  line-height: 27px !important;
   font-weight: 300;
   font-family: "Roboto",sans-serif;
   color: #797979;
