@@ -14,7 +14,7 @@ const projects = [
         img: MSPImg1,
         tech: 'Mern Stack Website',
         ProjName: 'Mern Stack Ecommerce Website',
-        href:'https://www.adhamdannaway.com/portfolio',
+        href:'https://mshahbaz858.github.io/BeachResort/',
         slug:'Mern'
     },
     {
