@@ -1,0 +1,21 @@
+body {
+  overflow-x: hidden;
+  margin: 6px !important;
+  font: 500 14px/100px "Roboto",sans-serif;
+  font-size: 0.9rem !important;
+  line-height: 27px;
+  font-weight: 300;
+  font-family: "Roboto",sans-serif;
+  color: #797979;
+  font: 500 14px/100px "Roboto",sans-serif;
+  text-transform: uppercase;
+  color: #060707;
+  padding: 0px;
+  font-size: 12px;
+  border: 5.5px solid purple;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
