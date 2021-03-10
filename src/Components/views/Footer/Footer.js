@@ -1,5 +1,6 @@
 import React from 'react'
-import Img from '../../../Images/logo2.png'
+// import Img from '../../../Images/logo2.png'
+import Img from '../../../Images/yyy.png'
 import { Image} from 'react-bootstrap';
 import './Section/Footer.css'
 import { useState } from 'react';

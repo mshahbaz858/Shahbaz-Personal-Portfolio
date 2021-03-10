@@ -5,6 +5,9 @@
   justify-content: center;
   height: 100vh;
 }
+.skil-list-area{
+    margin-top: -4rem !important;
+}
 .skills_DIV{
 margin: auto 1.2rem !important;
 }

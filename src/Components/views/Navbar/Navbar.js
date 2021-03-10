@@ -1,8 +1,12 @@
 import React from 'react'
-import { Navbar,Nav, NavDropdown} from 'react-bootstrap';
+import { Navbar,Nav, NavDropdown, Image} from 'react-bootstrap';
 import Scrollspy from 'react-scrollspy'
 import './Section/Navbar.css'
 import { makeStyles } from '@material-ui/core/styles';
+// import logoNew from '../../../Images/logo.png'
+import logoNew from '../../../Images/yyy.png'
+
+
 // METERIAL Styling Applying
 const useStyles = makeStyles({
   navbar:{
@@ -36,7 +40,9 @@ function Navbar_com() {
            <div className='container'>
 
     <Navbar collapseOnSelect expand="lg" variant="dark">
-  <Navbar.Brand href="#home" style={{color:'blue'}}>React-Bootstrap</Navbar.Brand>
+  <Navbar.Brand href="#home" >
+     <Image src={logoNew} />
+  </Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
     

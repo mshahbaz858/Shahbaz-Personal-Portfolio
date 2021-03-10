@@ -82,7 +82,7 @@ const skillsData = [
 ]
 function SkillList() {
     return (
-        <div className="container-fluid px-md-5 mt-0" >
+        <div className="container-fluid px-md-5  skil-list-area">
            <div className="row skills mt-0 px-md-5" >
                 <Carousel breakPoints={breakPoints}  transitionMs='1500' renderArrow={myArrow}>
                     {
