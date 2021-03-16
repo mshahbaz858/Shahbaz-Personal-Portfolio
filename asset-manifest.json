@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Shahbaz-Personal-Portfolio/static/css/main.4e4f67cd.chunk.css",
-    "main.js": "/Shahbaz-Personal-Portfolio/static/js/main.6523309b.chunk.js",
-    "main.js.map": "/Shahbaz-Personal-Portfolio/static/js/main.6523309b.chunk.js.map",
+    "main.js": "/Shahbaz-Personal-Portfolio/static/js/main.19ebfdd9.chunk.js",
+    "main.js.map": "/Shahbaz-Personal-Portfolio/static/js/main.19ebfdd9.chunk.js.map",
     "runtime-main.js": "/Shahbaz-Personal-Portfolio/static/js/runtime-main.5070612f.js",
     "runtime-main.js.map": "/Shahbaz-Personal-Portfolio/static/js/runtime-main.5070612f.js.map",
     "static/css/2.71079d7f.chunk.css": "/Shahbaz-Personal-Portfolio/static/css/2.71079d7f.chunk.css",
@@ -18,6 +18,7 @@
     "static/media/Home.css": "/Shahbaz-Personal-Portfolio/static/media/home-banner.984bfd88.png",
     "static/media/home-right.0c41cb88.png": "/Shahbaz-Personal-Portfolio/static/media/home-right.0c41cb88.png",
     "static/media/p10.8eb827df.jpg": "/Shahbaz-Personal-Portfolio/static/media/p10.8eb827df.jpg",
+    "static/media/p11.b1ae04ff.jpg": "/Shahbaz-Personal-Portfolio/static/media/p11.b1ae04ff.jpg",
     "static/media/p8.1e085f96.jpeg": "/Shahbaz-Personal-Portfolio/static/media/p8.1e085f96.jpeg",
     "static/media/p9.4ab3d337.jpg": "/Shahbaz-Personal-Portfolio/static/media/p9.4ab3d337.jpg",
     "static/media/styles.css": "/Shahbaz-Personal-Portfolio/static/media/revicons.e8746a62.woff"
@@ -27,6 +28,6 @@
     "static/css/2.71079d7f.chunk.css",
     "static/js/2.b646b74e.chunk.js",
     "static/css/main.4e4f67cd.chunk.css",
-    "static/js/main.6523309b.chunk.js"
+    "static/js/main.19ebfdd9.chunk.js"
   ]
 }
